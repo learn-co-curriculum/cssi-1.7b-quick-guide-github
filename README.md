@@ -40,7 +40,8 @@ Now your changes have been added to the Forked Repo in your Github account. At a
 
 Git pull is important to make sure you have the most up to date version of the repo on your local computer. This is most important when multiple people are working on and committing changes to the same repo.
 
-We will continue to build on our Github knowledge over the next few weeks.
+##We will continue to build on our Github knowledge over the next few weeks.
+
 ## Resources
 
 * [Blog -Github for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
