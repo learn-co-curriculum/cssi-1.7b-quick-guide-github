@@ -10,16 +10,16 @@ resources: github
 1. Click the **Fork this repo** Link on Learn - this take you to the original Repo on Github
 2. Click the **Fork** button on the Github Repo - Add the Fork to your Github Profile
 3. Click the **Copy to Clipboard** button on the lower right side of your Forked Repo (the https address)
-4. Go open Terminal
-5. cd dev
-6. git clone paste the https address you **Copied to Clipboard** from your Forked Repo
-7. cd into the repo you just cloned and you are ready to start working!
+4. Open the Terminal
+5. `cd dev`
+6. type `git clone ` and paste the https address you **Copied to Clipboard** from your Forked Repo
+7. `cd` into the repo you just cloned and you are ready to start working!
 
 ##When you have done some work and want to make a commit and push up your changes to your Forked Repo on Github:
-1. In Terminal, make sure you are currently in the directory of the project that you want to push (pwd will tell you what directory you are currently in if you aren't sure)
-2. git add .
-3. git commit -m "your commit message goes here"
-4. git push -u origin master
+1. In Terminal, make sure you are currently in the directory of the project that you want to push (`pwd` will tell you what directory you are currently in if you aren't sure)
+2. `git add .`
+3. `git commit -m "your commit message goes here"`
+4. `git push -u origin master`
 
 *You only need to include the -u in #4 if it is the first time you are pushing a commit to this specific repo.*
 
