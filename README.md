@@ -1,9 +1,4 @@
----
-tags:
-level: 1
-languages: git,command line
-resources: github
----
+
 #Quick Guide to GitHub
 
 ##When you need to Fork a Repository(Repo) and create a local version on your computer:
