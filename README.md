@@ -41,4 +41,4 @@ Git pull is important to make sure you have the most up to date version of the r
 
 * [Blog -Github for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 
-<a href='https://learn.co/lessons/cssi-1.7b-quick-guide-github' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.7b-quick-guide-github' title='Quick Guide to GitHub'>Quick Guide to GitHub</a> on Learn.co and start learning to code for free.</p>
